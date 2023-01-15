@@ -9,7 +9,15 @@ Com isso damos inicio ao nosso primeiro projeto que se trata de um site que inte
  <br/>
  <br/>
  
- 
+>> ### **Tecnologias usadas**
+Aqui estão as tecnologias usadas nesse projeto.
+
++ HTML
++ CSS
++ JavaScript
+<br/>
+<br/>
+
 >> ### **Conteúdos tratados nesse repositório**
 + JavaScript Basico e seus fundamentos
 + Variáveis e Tipos Primitivos
