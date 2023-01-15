@@ -41,7 +41,7 @@ Aqui estão as tecnologias usadas nesse projeto.
 
 + Certifique-se que seu computador esteja configurado para trabalhar com JavaScript no Visual Studio Code. <br/>
 
-+ Após isso, faça o clone do repositório ou copie os codigos diretamente nas guias já abertas do VsCode.<br/>
++ Após isso, faça o clone do repositório ou copie os codigos diretamente nas guias já abertas do VsCode. Não se esqueça de baixar as imagens e colocar dentro da pasta do projeto que foi salva em seu computador.<br/>
 
 + Certifique de estar usando a extenção Live Server integrada ao seu VsCode e ao navegador que estiver utilizando.
 
