@@ -1,0 +1,47 @@
+body{
+    background: rgb(7, 7, 187);
+    font: normal 15pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+fieldset{
+   
+    border-radius: 3%;
+    background: rgb(227, 220, 220);
+    padding: 2%;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+   
+}
+div#res{
+    border-radius: 3%;
+    background: rgb(254, 254, 254);
+    padding: 2%;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+select{
+    background: white;
+    width: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.473);
+    margin: 20px;
+    
+}
+div#tab{
+    text-align: center;
+}
